@@ -85,4 +85,6 @@ I'm a passionate computer programmer interested in web development, open-source 
 - **Instagram:** [mehmetalikaba](https://www.instagram.com/mehmetalikaba/)
 - **VSCO:** [mehmetalikaba](https://vsco.co/mehmetalikaba/gallery)
 
+--
+
 Feel free to explore and connect with me!
