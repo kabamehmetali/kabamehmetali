@@ -7,28 +7,6 @@ Welcome to my GitHub profile!
 
 I'm a passionate computer programmer interested in web development, open-source projects, and creative coding. Here you'll find my projects and explorations in code.
 
----
-
-## 📊 Most Used Content
-
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="padding: 2px; vertical-align: top;">
-      <h4 style="margin-bottom: 4px;">Top Languages</h4>
-      <a href="https://github.com/kabamehmetali/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabamehmetali&layout=compact" alt="Top Languages">
-      </a>
-    </td>
-    <td style="padding: 2px; vertical-align: top;">
-      <h4 style="margin-bottom: 4px;">GitHub Stats</h4>
-      <a href="https://github.com/kabamehmetali/">
-        <img src="https://github-readme-stats.vercel.app/api?username=kabamehmetali&show_icons=true" alt="GitHub Stats">
-      </a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🛠 My Favorite Languages & Tools
 
@@ -108,3 +86,26 @@ I'm a passionate computer programmer interested in web development, open-source 
 ---
 
 Feel free to explore and connect with me!
+
+---
+
+## 📊 Most Used Content
+
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="padding: 2px; vertical-align: top;">
+      <h4 style="margin-bottom: 4px;">Top Languages</h4>
+      <a href="https://github.com/kabamehmetali/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabamehmetali&layout=compact" alt="Top Languages">
+      </a>
+    </td>
+    <td style="padding: 2px; vertical-align: top;">
+      <h4 style="margin-bottom: 4px;">GitHub Stats</h4>
+      <a href="https://github.com/kabamehmetali/">
+        <img src="https://github-readme-stats.vercel.app/api?username=kabamehmetali&show_icons=true" alt="GitHub Stats">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
