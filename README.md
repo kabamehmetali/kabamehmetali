@@ -12,7 +12,7 @@ I'm a passionate computer programmer interested in web development, open-source 
 - 🔭 I’m currently working on various open-source projects.
 - 🌱 I’m learning more about modern web technologies.
 - 💬 Ask me about programming, web development, or anything tech!
-- 📫 How to reach me: [Email me](mailto:your-email@example.com)
+- 📫 How to reach me: [Email me](mailto:mehmetalikabaa@icloud.com)
 
 ## Connect with Me
 
