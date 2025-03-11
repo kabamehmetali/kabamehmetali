@@ -17,7 +17,7 @@ I'm a passionate computer programmer interested in web development, open-source 
 ## Connect with Me
 
 - **Website:** [mehmetali.dev](https://mehmetali.dev/)
-- **LinkedIn:** [Mehmet Ali Kaba](https://www.linkedin.com/in/mehmet-ali-kaba-894257141/)
+- **LinkedIn:** [mehmetalikaba](https://www.linkedin.com/in/mehmet-ali-kaba-894257141/)
 - **Instagram:** [mehmetalikaba](https://www.instagram.com/mehmetalikaba/)
 - **VSCO:** [mehmetalikaba](https://vsco.co/mehmetalikaba/gallery)
 
