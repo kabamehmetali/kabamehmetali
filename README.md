@@ -9,6 +9,27 @@ I'm a passionate computer programmer interested in web development, open-source 
 
 ---
 
+## 📊 Most Used Content
+
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="padding: 2px; vertical-align: top;">
+      <h4 style="margin-bottom: 4px;">Top Languages</h4>
+      <a href="https://github.com/kabamehmetali/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabamehmetali&layout=compact" alt="Top Languages">
+      </a>
+    </td>
+    <td style="padding: 2px; vertical-align: top;">
+      <h4 style="margin-bottom: 4px;">GitHub Stats</h4>
+      <a href="https://github.com/kabamehmetali/">
+        <img src="https://github-readme-stats.vercel.app/api?username=kabamehmetali&show_icons=true" alt="GitHub Stats">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠 My Favorite Languages & Tools
 
 <table style="border-collapse: collapse;">
@@ -64,27 +85,6 @@ I'm a passionate computer programmer interested in web development, open-source 
       <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat" alt="macOS">
       <img src="https://img.shields.io/badge/FreeBSD-FF0000?logo=freebsd&logoColor=white&style=flat" alt="FreeBSD">
       <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" alt="Windows">
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Most Used Content
-
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="padding: 2px; vertical-align: top;">
-      <h4 style="margin-bottom: 4px;">Top Languages</h4>
-      <a href="https://github.com/kabamehmetali/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabamehmetali&layout=compact" alt="Top Languages">
-      </a>
-    </td>
-    <td style="padding: 2px; vertical-align: top;">
-      <h4 style="margin-bottom: 4px;">GitHub Stats</h4>
-      <a href="https://github.com/kabamehmetali/">
-        <img src="https://github-readme-stats.vercel.app/api?username=kabamehmetali&show_icons=true" alt="GitHub Stats">
-      </a>
     </td>
   </tr>
 </table>
