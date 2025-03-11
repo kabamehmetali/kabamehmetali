@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Mehmet Ali KABA 👋
 
-<!--
-**kabamehmetali/kabamehmetali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+<!-- Visitor Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=kabamehmetali&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate computer programmer interested in web development, open-source projects, and creative coding. Here you'll find my projects and explorations in code.
+
+## About Me
+
+- 🔭 I’m currently working on various open-source projects.
+- 🌱 I’m learning more about modern web technologies.
+- 💬 Ask me about programming, web development, or anything tech!
+- 📫 How to reach me: [Email me](mailto:mehmetalikabaa@icloud.com)
+
+Feel free to explore and connect with me!
