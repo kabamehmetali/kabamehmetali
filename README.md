@@ -21,4 +21,45 @@ I'm a passionate computer programmer interested in web development, open-source 
 - **Instagram:** [mehmetalikaba](https://www.instagram.com/mehmetalikaba/)
 - **VSCO:** [mehmetalikaba](https://vsco.co/mehmetalikaba/gallery)
 
+## 🛠 My Favorite Languages & Tools
+
+### Programming Languages
+- **Python**
+- **PHP**
+- **C#**
+- **Java**
+- **Swift**
+- **JavaScript**
+
+### Tools & Technologies
+- **Linux**
+- **Bash**
+- **Bootstrap**
+- **Docker**
+- **Kubernetes (k8s)**
+- **OpenStack**
+
+### Cloud Providers
+- **GCP**
+- **AWS**
+- **Azure**
+
+### Version Control
+- **Git**
+- **GitHub**
+
+### Web Servers
+- **Nginx**
+
+### Databases & Services
+- **MySQL**
+- **MongoDB**
+- **Google Firebase**
+
+### Operating Systems
+- **Linux (CentOS, Debian, Ubuntu)**
+- **MacOS**
+- **FreeBSD**
+- **Windows**
+
 Feel free to explore and connect with me!
