@@ -38,13 +38,11 @@ I'm a passionate computer programmer interested in web development, open-source 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-![OpenStack](https://img.shields.io/badge/OpenStack-20232A?logo=openstack&logoColor=white&style=flat)
+
 
 ### Cloud Providers
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
